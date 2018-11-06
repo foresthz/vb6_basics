@@ -12,7 +12,7 @@ Begin VB.Form Form1
    Begin VB.CommandButton btn_loop 
       Caption         =   "Ñ­»·"
       Height          =   495
-      Left            =   2400
+      Left            =   1920
       TabIndex        =   1
       Top             =   240
       Width           =   1215
